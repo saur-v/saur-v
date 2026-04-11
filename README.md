@@ -34,8 +34,6 @@ AI-powered chatbot that answers questions about YouTube video content using a RA
 
 Adobe India Hackathon 2025 — Qualified for Round 2, ranked in the top 4,000 among 262,000+ participants. Built a document structure detection pipeline using embedding models, NLP, and Docker that achieved 70 to 80 percent structural accuracy on PDF hierarchies.
 
-Codecure AI Hackathon 2026 — IIT BHU SPIRIT — Built EpiWatch, an end-to-end epidemic prediction system combining epidemiological modeling with machine learning.
-
 ---
 
 ## Currently Exploring
