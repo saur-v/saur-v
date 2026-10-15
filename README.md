@@ -1,6 +1,6 @@
 # Saurabh Chaudhary
 
-3rd year Computer Science student at Sant Longowal Institute of Engineering and Technology, Punjab. I work at the intersection of machine learning, deep learning, and generative AI — building systems that solve real problems.
+4th year Computer Science student at Sant Longowal Institute of Engineering and Technology, Punjab. I work at the intersection of machine learning, deep learning, and generative AI — building systems that solve real problems.
 ---
 
 ## What I Work With
